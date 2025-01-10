@@ -1,0 +1,10 @@
+{
+    "name": "Flattening Board",
+    "description": "Feel the wrath of cutting boards...!?",
+    "weapons": [
+        "name"
+    ]
+        
+    "Create a defensive wall that damages targets behind you. Effectiveness is increased on certain characters.", WeaponType.MELEE), Weapon("Holo Bomb",
+    "A bomb that explodes, dealing damage to all nearby targets.", WeaponType.MULTISHOT), WeaponType.MULTISHOT
+}
